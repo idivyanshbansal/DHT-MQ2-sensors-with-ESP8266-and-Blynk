@@ -1,1 +1,1 @@
-# DHT_MQ2-sensor-on-ESP8266-Blynk-
+# DHT and MQ2 sensors with ESP8266 and Blynk
